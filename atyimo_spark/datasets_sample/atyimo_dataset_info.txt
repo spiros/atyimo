@@ -1,0 +1,48 @@
+## FEDERAL UNIVERSITY OF BAHIA (UFBA)
+## ATYIMOLAB (www.atyimolab.ufba.br)
+## University College London (UCL)
+## Denaxas Lab (www.denaxaslab.org)
+## Robespierre Pita and Clicia Pinto and Marcos Barreto and Spiros Denaxas
+
+/*
+@(#)File:           $atyimo_dataset_info.txt$
+@(#)Version:        $v1$
+@(#)Last changed:   $Date: 2017/12/04 12:00:00 $
+@(#)Purpose:        Example data sets for the AtyImo data linkage tool
+@(#)Author:         Robespierre Pita and Clicia Pinto and Marcos Barreto and Spiros Denaxas
+
+@(#)Usage:
+
+@(#)Comments:
+
+ (*) These are synthetic data sets generated using a random routine for names and dates of birth.
+ (*) They are very similar in structure to those real (identifiable) data sets linked by AtyImo.
+
+*/
+
+## Linkage attributes (existent in most Brazilian government databases)
+
+code										:		Unique key for each record
+municipality_residence	:		IBGE (Brazilian Institute of Gepgraphy and Statistics) code for a specific municipality.
+														This code was chosen randomly considering Brazilian municipalities.
+name										:		Person name
+mother_name							:		Mother's name
+birth_date							:		Date of birth (yyyy-mm-dd)
+gender									:		Gender ("1" and "M" - MALE, "3" and "F" - FEMALE)
+
+## Files (semicolon ";" separated values)
+##  AtyImo - Spark
+
+small/
+- DATASET_1_5K_records.csv: 500,000 records
+- DATASET_2_1M_records.csv: 1,000,000 records
+
+large/
+- DATASET_1_5M_records.csv: 5,000,000 records
+- DATASET_2_5M_records.csv: 5,000,000 records
+
+## Files (Bloom coded)
+##  AtyImo - Hybrid (OpenMP, CUDA)
+
+bloom_hybrid/
+- input_1000.bloom, input_10000.bloom, input_500000.bloom
