@@ -1,5 +1,8 @@
 # Atyimo - Record Linkage Application for Heterogeneous Platforms
 
+[![DOI](https://zenodo.org/badge/113854567.svg)](https://zenodo.org/badge/latestdoi/113854567)
+
+
 Authors
 ==============
 Robespierre Pita and Clicia Pinto and Marcos Barreto and Spiros Denaxas
