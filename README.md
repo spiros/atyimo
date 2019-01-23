@@ -18,7 +18,7 @@ More information
 
 * PINTO, Clicia; PITA, Robespierre; BARBOSA, George; ARAÚJO, Bruno; BERTOLDO, Juracy; SENA, Samila; REIS, Sandra; FIACCONE, Rosemeire; AMORIM, Leila; ICHIHARA, Maria Yuri; BARRETO, Mauricio; BARRETO, Marcos; DENAXAS, Spiros. [Probabilistic integration of large Brazilian socioeconomic and clinical databases.](http://dx.doi.org/10.1109/CBMS.2017.64) 30th IEEE International Symposium on Computer-Based Medical Systems (CBMS 2017), Thessaloniki, 2017. 
 
-* PINTO, Clicia; BORATTO, Murilo; ALONSO, Pedro; BARRETO, Marcos. Scaling probabilistic record linkage on multicore and multi-GPU system. 17th International Conference on Computational and Mathematical Methods in Science and Engineering (CMMSE 2017), Cadiz, 2017
+* PINTO, Clicia; BORATTO, Murilo; ALONSO, Pedro; BARRETO, Marcos. [Scaling probabilistic record linkage on multicore and multi-GPU system](http://www.inco2.upv.es/prometeo/publicacion/scaling-probabilistic-record-linkage-on-multicore-and-multi-gpu-systems/). 17th International Conference on Computational and Mathematical Methods in Science and Engineering (CMMSE 2017), Cadiz, 2017
 
 
 
